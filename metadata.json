@@ -1,0 +1,6 @@
+{
+  "name": "Mailvora",
+  "description": "Private. Temporary. Simple. Disposable temporary email app.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
